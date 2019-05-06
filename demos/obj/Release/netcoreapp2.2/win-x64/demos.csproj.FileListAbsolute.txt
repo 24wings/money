@@ -1,0 +1,14 @@
+E:\workspace\money\demos\bin\Release\netcoreapp2.2\win-x64\hostpolicy.dll
+E:\workspace\money\demos\bin\Release\netcoreapp2.2\win-x64\hostfxr.dll
+E:\workspace\money\demos\bin\Release\netcoreapp2.2\win-x64\demos.exe
+E:\workspace\money\demos\bin\Release\netcoreapp2.2\win-x64\demos.deps.json
+E:\workspace\money\demos\bin\Release\netcoreapp2.2\win-x64\demos.runtimeconfig.json
+E:\workspace\money\demos\bin\Release\netcoreapp2.2\win-x64\demos.runtimeconfig.dev.json
+E:\workspace\money\demos\bin\Release\netcoreapp2.2\win-x64\demos.dll
+E:\workspace\money\demos\bin\Release\netcoreapp2.2\win-x64\demos.pdb
+E:\workspace\money\demos\obj\Release\netcoreapp2.2\win-x64\demos.csprojAssemblyReference.cache
+E:\workspace\money\demos\obj\Release\netcoreapp2.2\win-x64\demos.csproj.CoreCompileInputs.cache
+E:\workspace\money\demos\obj\Release\netcoreapp2.2\win-x64\demos.AssemblyInfoInputs.cache
+E:\workspace\money\demos\obj\Release\netcoreapp2.2\win-x64\demos.AssemblyInfo.cs
+E:\workspace\money\demos\obj\Release\netcoreapp2.2\win-x64\demos.dll
+E:\workspace\money\demos\obj\Release\netcoreapp2.2\win-x64\demos.pdb

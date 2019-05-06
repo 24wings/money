@@ -1,0 +1,36 @@
+[PC Hunter Standard][过滤驱动]: 34
+类型		驱动对象名		驱动路径		设备		设备名		宿主驱动对象名		文件厂商
+File		\FileSystem\FltMgr		C:\Windows\System32\drivers\FLTMGR.SYS		0xFFFFCD87EC796D60				\FileSystem\Ntfs		Microsoft Corporation
+Disk		\Driver\partmgr		C:\Windows\System32\drivers\partmgr.sys		0xFFFFCD87EC75A8D0				\Driver\Disk		Microsoft Corporation
+Raw		\FileSystem\FltMgr		C:\Windows\System32\drivers\FLTMGR.SYS		0xFFFFCD87EC62BBA0				\FileSystem\RAW		Microsoft Corporation
+Raw		\FileSystem\FltMgr		C:\Windows\System32\drivers\FLTMGR.SYS		0xFFFFCD87EC5A1CF0				\FileSystem\RAW		Microsoft Corporation
+Volume		\Driver\fvevol		C:\Windows\System32\DRIVERS\fvevol.sys		0xFFFFCD87EC939030				\Driver\volmgr		Microsoft Corporation
+Volume		\Driver\iorate		C:\Windows\system32\drivers\iorate.sys		0xFFFFCD87EC753B30				\Driver\fvevol		Microsoft Corporation
+Volume		\Driver\volume		C:\Windows\System32\drivers\volume.sys		0xFFFFCD87EC772DE0				\Driver\iorate		Microsoft Corporation
+Volume		\Driver\volsnap		C:\Windows\System32\drivers\volsnap.sys		0xFFFFCD87EC93B040				\Driver\volume		Microsoft Corporation
+PnpManager		\Driver\VMSNPXY		C:\Windows\system32\drivers\VmsProxyHNic.sys		0xFFFFCD87F66F7050		NDMP19		\Driver\PnpManager		Microsoft Corporation
+PnpManager		\Driver\VMSP		C:\Windows\System32\drivers\vmswitch.sys		0xFFFFCD87F55C2050		NDMP18		\Driver\PnpManager		Microsoft Corporation
+PnpManager		\Driver\rdpbus		C:\Windows\System32\drivers\rdpbus.sys		0xFFFFCD87ECE0C780		RdpBus		\Driver\PnpManager		Microsoft Corporation
+PnpManager		\Driver\swenum		C:\Windows\System32\DriverStore\FileRepository\swenum.inf_amd64_31f554b660026323\swenum.sys		0xFFFFCD87ECDFADC0				\Driver\PnpManager		Microsoft Corporation
+PnpManager		\Driver\mssmbios		C:\Windows\System32\drivers\mssmbios.sys		0xFFFFCD87ECDFA280				\Driver\PnpManager		Microsoft Corporation
+PnpManager		\Driver\NdisVirtualBus		C:\Windows\System32\drivers\NdisVirtualBus.sys		0xFFFFCD87ECDFA050				\Driver\PnpManager		Microsoft Corporation
+PnpManager		\Driver\VMSNPXY		C:\Windows\system32\drivers\VmsProxyHNic.sys		0xFFFFCD87ECDF7050		NDMP8		\Driver\PnpManager		Microsoft Corporation
+PnpManager		\Driver\Synth3dVsp		C:\Windows\System32\drivers\synth3dvsp.sys		0xFFFFCD87ECDF4490		Synth3dVsp		\Driver\PnpManager		Microsoft Corporation
+PnpManager		\Driver\storvsp		C:\Windows\System32\drivers\storvsp.sys		0xFFFFCD87ECDF32D0		STORVSP		\Driver\PnpManager		Microsoft Corporation
+PnpManager		\Driver\vmci		C:\Windows\System32\drivers\vmci.sys		0xFFFFCD87EC56E060		VMCIHostDev		\Driver\PnpManager		VMware, Inc.
+PnpManager		\Driver\BasicRender		C:\Windows\System32\DriverStore\FileRepository\basicrender.inf_amd64_0b8d03c3bc0e7fd9\BasicRender.sys		0xFFFFCD87ECDF0030				\Driver\PnpManager		Microsoft Corporation
+PnpManager		\Driver\vpcivsp		C:\Windows\System32\drivers\vpcivsp.sys		0xFFFFCD87ECDDDC50				\Driver\PnpManager		Microsoft Corporation
+PnpManager		\Driver\ACPI_HAL				0xFFFFCD87EAAE2CD0				\Driver\PnpManager
+PnpManager		\Driver\umbus		C:\Windows\System32\drivers\umbus.sys		0xFFFFCD87ECC08A50				\Driver\PnpManager		Microsoft Corporation
+PnpManager		\Driver\kdnic		C:\Windows\System32\drivers\kdnic.sys		0xFFFFCD87EC96F8D0				\Driver\PnpManager		Microsoft Corporation
+PnpManager		\Driver\spaceport		C:\Windows\System32\drivers\spaceport.sys		0xFFFFCD87EC5B6270		Spaceport		\Driver\PnpManager		Microsoft Corporation
+PnpManager		\Driver\vdrvroot		C:\Windows\System32\drivers\vdrvroot.sys		0xFFFFCD87EC568040				\Driver\PnpManager		Microsoft Corporation
+PnpManager		\Driver\CompositeBus		C:\Windows\System32\DriverStore\FileRepository\compositebus.inf_amd64_e4d35af746093dc3\CompositeBus.sys		0xFFFFCD87ECB8BA20				\Driver\PnpManager		Microsoft Corporation
+PnpManager		\Driver\Vid		C:\Windows\System32\drivers\Vid.sys		0xFFFFCD87ECB239D0				\Driver\PnpManager		Microsoft Corporation
+PnpManager		\Driver\VMnetAdapter		C:\Windows\system32\DRIVERS\vmnetadapter.sys		0xFFFFCD87ECC2F050		NDMP5		\Driver\PnpManager		VMware, Inc.
+PnpManager		\Driver\VMnetAdapter		C:\Windows\system32\DRIVERS\vmnetadapter.sys		0xFFFFCD87ECC2D050		NDMP4		\Driver\PnpManager		VMware, Inc.
+PnpManager		\Driver\kmloop		C:\Windows\System32\drivers\loop.sys		0xFFFFCD87ECBEC050		NDMP3		\Driver\PnpManager		Microsoft Corporation
+PnpManager		\Driver\VMSP		C:\Windows\System32\drivers\vmswitch.sys		0xFFFFCD87ECC2A050		NDMP2		\Driver\PnpManager		Microsoft Corporation
+PnpManager		\Driver\BasicDisplay		C:\Windows\System32\DriverStore\FileRepository\basicdisplay.inf_amd64_5103ac179273be89\BasicDisplay.sys		0xFFFFCD87ECB08030				\Driver\PnpManager		Microsoft Corporation
+PnpManager		\Driver\vmbusr		C:\Windows\System32\drivers\vmbusr.sys		0xFFFFCD87EC7C18F0		RootVMBus		\Driver\PnpManager		Microsoft Corporation
+PnpManager		\Driver\volmgr		C:\Windows\System32\drivers\volmgr.sys		0xFFFFCD87EC5B77A0		VolMgrControl		\Driver\PnpManager		Microsoft Corporation

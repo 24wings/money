@@ -1,0 +1,114 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "a4d3aa2531cf21eeab5d6a66a8fe5b97fda81645"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "demos/1.0.0": {
+        "dependencies": {
+          "PInvoke.Kernel32": "0.5.184",
+          "PInvoke.User32": "0.5.184"
+        },
+        "runtime": {
+          "demos.dll": {}
+        }
+      },
+      "PInvoke.Kernel32/0.5.184": {
+        "dependencies": {
+          "PInvoke.Windows.Core": "0.5.184"
+        },
+        "runtime": {
+          "lib/netstandard2.0/PInvoke.Kernel32.dll": {
+            "assemblyVersion": "0.5.0.0",
+            "fileVersion": "0.5.184.463"
+          }
+        }
+      },
+      "PInvoke.User32/0.5.184": {
+        "dependencies": {
+          "PInvoke.Kernel32": "0.5.184",
+          "PInvoke.Windows.Core": "0.5.184",
+          "PInvoke.Windows.ShellScalingApi": "0.5.184",
+          "Validation": "2.4.15"
+        },
+        "runtime": {
+          "lib/netstandard1.1/PInvoke.User32.dll": {
+            "assemblyVersion": "0.5.0.0",
+            "fileVersion": "0.5.184.463"
+          }
+        }
+      },
+      "PInvoke.Windows.Core/0.5.184": {
+        "runtime": {
+          "lib/netstandard2.0/PInvoke.Windows.Core.dll": {
+            "assemblyVersion": "0.5.0.0",
+            "fileVersion": "0.5.184.463"
+          }
+        }
+      },
+      "PInvoke.Windows.ShellScalingApi/0.5.184": {
+        "dependencies": {
+          "PInvoke.Windows.Core": "0.5.184"
+        },
+        "runtime": {
+          "lib/netstandard1.1/PInvoke.Windows.ShellScalingApi.dll": {
+            "assemblyVersion": "0.5.0.0",
+            "fileVersion": "0.5.184.463"
+          }
+        }
+      },
+      "Validation/2.4.15": {
+        "runtime": {
+          "lib/netstandard1.3/Validation.dll": {
+            "assemblyVersion": "2.4.0.0",
+            "fileVersion": "2.4.15.30595"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "demos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PInvoke.Kernel32/0.5.184": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TgY1/ZfL7s/g8iR0XBCpLOCcG9o8GZwlNiH2/hnK/wmj0dpKbCjQeWaVNWwwMTVZZ3svCuMRzSlGSz90TGgZBg==",
+      "path": "pinvoke.kernel32/0.5.184",
+      "hashPath": "pinvoke.kernel32.0.5.184.nupkg.sha512"
+    },
+    "PInvoke.User32/0.5.184": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XLh0DY7x2eK/XifSqWg4FhI0n9LJG8IhUp9hTNmQz0m/fnklqb/ios2OusBhjchd865cuOaWCQXCOaDiwXvZnw==",
+      "path": "pinvoke.user32/0.5.184",
+      "hashPath": "pinvoke.user32.0.5.184.nupkg.sha512"
+    },
+    "PInvoke.Windows.Core/0.5.184": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3Va7TXwqX7bn3xz3K2Mx6tKzrxNBtbpv0CSe4tIw51usjN1la/+mHrLExtbAo7J4drWmwUM7LnurULMprkEeAw==",
+      "path": "pinvoke.windows.core/0.5.184",
+      "hashPath": "pinvoke.windows.core.0.5.184.nupkg.sha512"
+    },
+    "PInvoke.Windows.ShellScalingApi/0.5.184": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YV8zao/EapC4ws05vuuHbKfx+0fmffCmY2IU0Q/MHdvQskUcanOb/u2ih5zQfEWVIJaPCGOnf8lwrpqxJr3ztw==",
+      "path": "pinvoke.windows.shellscalingapi/0.5.184",
+      "hashPath": "pinvoke.windows.shellscalingapi.0.5.184.nupkg.sha512"
+    },
+    "Validation/2.4.15": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KQFOtJKKhaXzuSiZhkFaFzQEdYsA+EN/XqKZDYwsGDOrS0Nxu6qzCvNTsDF4xtkiZbBA6u7I59QnsuP2O2fZgg==",
+      "path": "validation/2.4.15",
+      "hashPath": "validation.2.4.15.nupkg.sha512"
+    }
+  }
+}

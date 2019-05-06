@@ -1,0 +1,228 @@
+[PC Hunter Standard][进程]: 226
+映像名称		进程ID		父进程ID		映像路径		EPROCESS		应用层访问状态		文件厂商
+System		4		-		System		0xFFFFCD87EAA7D040		拒绝
+MemCompression		1384		4		MemCompression		0xFFFFCD87F3E19040		拒绝
+smss.exe		416		4		C:\Windows\System32\smss.exe		0xFFFFCD87ECB0E240		拒绝		Microsoft Corporation
+Registry		120		4		Registry		0xFFFFCD87EABE7040		拒绝
+csrss.exe		632		608		C:\Windows\System32\csrss.exe		0xFFFFCD87F2C3F140		拒绝		Microsoft Corporation
+wininit.exe		720		608		C:\Windows\System32\wininit.exe		0xFFFFCD87F3245080		拒绝		Microsoft Corporation
+lsass.exe		872		720		C:\Windows\System32\lsass.exe		0xFFFFCD87F3345300		-		Microsoft Corporation
+services.exe		844		720		C:\Windows\System32\services.exe		0xFFFFCD87F3339340		拒绝		Microsoft Corporation
+svchost.exe		32636		844		C:\Windows\System32\svchost.exe		0xFFFFCD87FEB89080		-		Microsoft Corporation
+svchost.exe		29888		844		C:\Windows\System32\svchost.exe		0xFFFFCD87FE98E080		-		Microsoft Corporation
+TesService.exe *32		28472		844		C:\Program Files (x86)\Common Files\Tencent\TesService\TesService.exe		0xFFFFCD87FCD6F0C0		-		Tencent
+sqlwriter.exe		28088		844		C:\Program Files\Microsoft SQL Server\90\Shared\sqlwriter.exe		0xFFFFCD87FFF4E080		-		Microsoft Corporation
+TGuardSvc.exe *32		27904		844		C:\Program Files (x86)\Tencent\TGuard\TGuardSvc.exe		0xFFFFCD88031C9080		-		TGuard
+TGuard.exe *32		24812		27904		C:\Program Files (x86)\Tencent\TGuard\TGuard.exe		0xFFFFCD88073D6080		-		TGuard
+TrustedInstaller.exe		26540		844		C:\Windows\servicing\TrustedInstaller.exe		0xFFFFCD87F5FD80C0		-		Microsoft Corporation
+spoolsv.exe		18836		844		C:\Windows\System32\spoolsv.exe		0xFFFFCD8802BEE500		-		Microsoft Corporation
+svchost.exe		14016		844		C:\Windows\System32\svchost.exe		0xFFFFCD88032CC2C0		-		Microsoft Corporation
+svchost.exe		13404		844		C:\Windows\System32\svchost.exe		0xFFFFCD87FFC0A2C0		-		Microsoft Corporation
+svchost.exe		11132		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F67F0080		-		Microsoft Corporation
+svchost.exe		10104		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F5D2D540		-		Microsoft Corporation
+svchost.exe		9976		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F63B22C0		-		Microsoft Corporation
+SecurityHealthService.exe		9596		844		C:\Windows\System32\SecurityHealthService.exe		0xFFFFCD87F5BA9080		拒绝		Microsoft Corporation
+svchost.exe		9160		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F61E2540		-		Microsoft Corporation
+svchost.exe		8944		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F601D540		-		Microsoft Corporation
+OSPPSVC.EXE		8864		844		C:\Program Files\Common Files\microsoft shared\OfficeSoftwareProtectionPlatform\OSPPSVC.EXE		0xFFFFCD87F601B080		-		Microsoft Corporation
+svchost.exe		8584		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F65D0540		-		Microsoft Corporation
+pacjsworker.exe		9724		8584		C:\Windows\System32\pacjsworker.exe		0xFFFFCD87F4AC7080		-		Microsoft Corporation
+SgrmBroker.exe		6680		844		C:\Windows\System32\SgrmBroker.exe		0xFFFFCD87F2480080		拒绝		Microsoft Corporation
+svchost.exe		6256		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F52130C0		-		Microsoft Corporation
+svchost.exe		6012		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F50AA080		-		Microsoft Corporation
+svchost.exe		5924		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F50B5500		-		Microsoft Corporation
+svchost.exe		5812		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F507B500		-		Microsoft Corporation
+svchost.exe		5720		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F5048080		-		Microsoft Corporation
+ctfmon.exe		5856		5720		C:\Windows\System32\ctfmon.exe		0xFFFFCD87F5042080		-		Microsoft Corporation
+svchost.exe		5664		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F5018540		-		Microsoft Corporation
+PresentationFontCache.exe		5564		844		C:\Windows\Microsoft.NET\Framework64\v3.0\WPF\PresentationFontCache.exe		0xFFFFCD87F4F93080		-		Microsoft Corporation
+svchost.exe		5424		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F4F0B080		-		Microsoft Corporation
+svchost.exe		5388		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F4396380		-		Microsoft Corporation
+vmcompute.exe		5080		844		C:\Windows\System32\vmcompute.exe		0xFFFFCD87F4AEE080		-		Microsoft Corporation
+vmware-hostd.exe *32		4908		844		F:\dnf\vmware-hostd.exe		0xFFFFCD87F4AF2080		-
+svchost.exe		4684		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F4997540		-		Microsoft Corporation
+svchost.exe		4640		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F497D540		-		Microsoft Corporation
+svchost.exe		3808		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F45DE080		-		Microsoft Corporation
+svchost.exe		3648		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F4563080		-		Microsoft Corporation
+IntelCpHeciSvc.exe		3640		844		C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_24de78387e6208e4\IntelCpHeciSvc.exe		0xFFFFCD87F4561080		-		Intel Corporation
+mysqld.exe		3536		844		C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe		0xFFFFCD87F453E080		-
+mysqld.exe		4244		3536		C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe		0xFFFFCD87F475A080		-
+conhost.exe		4260		4244		C:\Windows\System32\conhost.exe		0xFFFFCD87F478A080		-		Microsoft Corporation
+vmms.exe		3516		844		C:\Windows\System32\vmms.exe		0xFFFFCD87F4534500		-		Microsoft Corporation
+vmnetdhcp.exe *32		3412		844		C:\Windows\SysWOW64\vmnetdhcp.exe		0xFFFFCD87F449C500		-		VMware, Inc.
+QQProtect.exe *32		3396		844		C:\Program Files (x86)\Common Files\Tencent\QQProtect\Bin\QQProtect.exe		0xFFFFCD87F449F080		-		Tencent
+vmnat.exe *32		3376		844		C:\Windows\SysWOW64\vmnat.exe		0xFFFFCD87F438A500		-		VMware, Inc.
+vmware-usbarbitrator64.exe		3348		844		C:\Program Files (x86)\Common Files\VMware\USB\vmware-usbarbitrator64.exe		0xFFFFCD87F43F4080		-		VMware, Inc.
+svchost.exe		3340		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F43F6540		-		Microsoft Corporation
+vmware-authd.exe *32		3328		844		F:\dnf\vmware-authd.exe		0xFFFFCD87F43ED080		-		VMware, Inc.
+IntelCpHDCPSvc.exe		3316		844		C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_24de78387e6208e4\IntelCpHDCPSvc.exe		0xFFFFCD87F438F0C0		-		Intel Corporation
+svchost.exe		3280		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F439D080		-		Microsoft Corporation
+svchost.exe		3240		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F43A3080		-		Microsoft Corporation
+com.docker.service		3208		844		C:\Program Files\Docker\Docker\com.docker.service		0xFFFFCD87F4397080		-		Docker Inc.
+svchost.exe		3160		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F436C540		-		Microsoft Corporation
+svchost.exe		3116		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F42CF080		-		Microsoft Corporation
+svchost.exe		2888		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F4161540		-		Microsoft Corporation
+svchost.exe		2804		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F5A21540		拒绝		Microsoft Corporation
+svchost.exe		2776		844		C:\Windows\System32\svchost.exe		0xFFFFCD87EAB20080		拒绝		Microsoft Corporation
+svchost.exe		2764		844		C:\Windows\System32\svchost.exe		0xFFFFCD87EAACE080		-		Microsoft Corporation
+svchost.exe		2732		844		C:\Windows\System32\svchost.exe		0xFFFFCD87EAB06080		-		Microsoft Corporation
+svchost.exe		2672		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F42DA0C0		-		Microsoft Corporation
+svchost.exe		2636		844		C:\Windows\System32\svchost.exe		0xFFFFCD87EAACD080		-		Microsoft Corporation
+svchost.exe		2628		844		C:\Windows\System32\svchost.exe		0xFFFFCD87EAA6A080		-		Microsoft Corporation
+svchost.exe		2588		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F42D6540		-		Microsoft Corporation
+svchost.exe		2560		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F4121080		-		Microsoft Corporation
+audiodg.exe		31440		2560		C:\Windows\System32\audiodg.exe		0xFFFFCD87FDD4F540		-		Microsoft Corporation
+svchost.exe		2376		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F3FEB080		-		Microsoft Corporation
+svchost.exe		2284		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F3FB3080		-		Microsoft Corporation
+svchost.exe		2276		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F3F4D080		-		Microsoft Corporation
+svchost.exe		2156		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F3F590C0		-		Microsoft Corporation
+igfxCUIService.exe		2136		844		C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_24de78387e6208e4\igfxCUIService.exe		0xFFFFCD87F3F480C0		-		Intel Corporation
+igfxEM.exe		6172		2136		C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_24de78387e6208e4\igfxEM.exe		0xFFFFCD87F51F4480		-		Intel Corporation
+svchost.exe		2124		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F571E540		-		Microsoft Corporation
+svchost.exe		2060		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F42BC540		-		Microsoft Corporation
+svchost.exe		1972		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F3DC7080		-		Microsoft Corporation
+svchost.exe		1964		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F3DBC080		-		Microsoft Corporation
+svchost.exe		1952		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F3DBF540		-		Microsoft Corporation
+svchost.exe		1944		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F3DBD540		-		Microsoft Corporation
+SunloginClient.exe *32		1820		844		C:\Program Files (x86)\Oray\SunLogin\SunloginClient\SunloginClient.exe		0xFFFFCD88067C50C0		-		上海贝锐信息科技股份有限公司
+SunloginClient.exe *32		11432		1820		C:\Program Files (x86)\Oray\SunLogin\SunloginClient\SunloginClient.exe		0xFFFFCD880D5AA0C0		-		上海贝锐信息科技股份有限公司
+NVDisplay.Container.exe		1776		844		C:\Program Files\NVIDIA Corporation\Display.NvContainer\NVDisplay.Container.exe		0xFFFFCD87F3D30080		-		NVIDIA Corporation
+NVDisplay.Container.exe		2212		1776		C:\Program Files\NVIDIA Corporation\Display.NvContainer\NVDisplay.Container.exe		0xFFFFCD87F3F65080		-		NVIDIA Corporation
+svchost.exe		1756		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F3D32080		-		Microsoft Corporation
+svchost.exe		1748		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F3EED500		-		Microsoft Corporation
+svchost.exe		1720		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F3D2C080		-		Microsoft Corporation
+svchost.exe		1640		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F3C90080		-		Microsoft Corporation
+svchost.exe		1600		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F3CFA540		-		Microsoft Corporation
+sihost.exe		5352		1600		C:\Windows\System32\sihost.exe		0xFFFFCD87F43A2540		-		Microsoft Corporation
+svchost.exe		1500		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F3CBD080		-		Microsoft Corporation
+svchost.exe		1428		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F3C66540		-		Microsoft Corporation
+svchost.exe		1388		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F3C45540		-		Microsoft Corporation
+taskhostw.exe		5472		1388		C:\Windows\System32\taskhostw.exe		0xFFFFCD87F4F16080		-		Microsoft Corporation
+svchost.exe		1316		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F3BD3080		-		Microsoft Corporation
+svchost.exe		1308		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F3BEA540		-		Microsoft Corporation
+svchost.exe		1300		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F3BE60C0		-		Microsoft Corporation
+svchost.exe		1240		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F3BC40C0		-		Microsoft Corporation
+svchost.exe		1056		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F3AA8540		-		Microsoft Corporation
+svchost.exe		1012		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F33CE540		-		Microsoft Corporation
+svchost.exe		868		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F6379080		-		Microsoft Corporation
+svchost.exe		92		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F3A75240		-		Microsoft Corporation
+svchost.exe		84		844		C:\Windows\System32\svchost.exe		0xFFFFCD87F33E1500		-		Microsoft Corporation
+WmiPrvSE.exe		32732		84		C:\Windows\System32\wbem\WmiPrvSE.exe		0xFFFFCD8805BE5080		-		Microsoft Corporation
+WmiPrvSE.exe		32316		84		C:\Windows\System32\wbem\WmiPrvSE.exe		0xFFFFCD87FFF3F080		-		Microsoft Corporation
+TiWorker.exe		32100		84		C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.17763.402_none_7e502ee34cd6a6f5\TiWorker.exe		0xFFFFCD87FDB63080		-		Microsoft Corporation
+WmiPrvSE.exe *32		31412		84		C:\Windows\SysWOW64\wbem\WmiPrvSE.exe		0xFFFFCD87FD3C3080		-		Microsoft Corporation
+TXPlatform.exe *32		31392		84		E:\Bin\TXPlatform.exe		0xFFFFCD880AEEF240		-		Tencent
+explorer.exe		21864		84		C:\Windows\explorer.exe		0xFFFFCD88023E1080		-		Microsoft Corporation
+explorer.exe		14376		84		C:\Windows\explorer.exe		0xFFFFCD87F9E6F080		-		Microsoft Corporation
+smartscreen.exe		9412		84		C:\Windows\System32\smartscreen.exe		0xFFFFCD87F637D540		-		Microsoft Corporation
+explorer.exe		9200		84		C:\Windows\explorer.exe		0xFFFFCD87FF85D540		-		Microsoft Corporation
+RuntimeBroker.exe		7908		84		C:\Windows\System32\RuntimeBroker.exe		0xFFFFCD87F5C230C0		-		Microsoft Corporation
+WindowsInternal.ComposableShell.Experiences.TextInput.InputApp.exe		7360		84		C:\Windows\SystemApps\InputApp_cw5n1h2txyewy\WindowsInternal.ComposableShell.Experiences.TextInput.InputApp.exe		0xFFFFCD87F59BA080		-		Microsoft Corporation
+RuntimeBroker.exe		7152		84		C:\Windows\System32\RuntimeBroker.exe		0xFFFFCD87F5719080		-		Microsoft Corporation
+RuntimeBroker.exe		6944		84		C:\Windows\System32\RuntimeBroker.exe		0xFFFFCD87F578C080		-		Microsoft Corporation
+SearchUI.exe		6848		84		C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe		0xFFFFCD87F544A080		-		Microsoft Corporation
+ShellExperienceHost.exe		6528		84		C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe		0xFFFFCD87F53EF080		-		Microsoft Corporation
+ChsIME.exe		6376		84		C:\Windows\System32\InputMethod\CHS\ChsIME.exe		0xFFFFCD87F52E7080		-		Microsoft Corporation
+explorer.exe		4464		84		C:\Windows\explorer.exe		0xFFFFCD87F4822080		-		Microsoft Corporation
+fontdrvhost.exe		516		720		C:\Windows\System32\fontdrvhost.exe		0xFFFFCD87F33E9400		-		Microsoft Corporation
+csrss.exe		728		712		C:\Windows\System32\csrss.exe		0xFFFFCD87F3248140		拒绝		Microsoft Corporation
+winlogon.exe		820		712		C:\Windows\System32\winlogon.exe		0xFFFFCD87F3284080		-		Microsoft Corporation
+dwm.exe		1128		820		C:\Windows\System32\dwm.exe		0xFFFFCD87F3AED2C0		-		Microsoft Corporation
+fontdrvhost.exe		452		820		C:\Windows\System32\fontdrvhost.exe		0xFFFFCD87F33E7400		-		Microsoft Corporation
+explorer.exe		3232		6124		C:\Windows\explorer.exe		0xFFFFCD87F517B080		-		Microsoft Corporation
+devenv.exe *32		31096		3232		E:\vs\ide\Common7\IDE\devenv.exe		0xFFFFCD87F7945080		-		Microsoft Corporation
+node.exe *32		32340		31096		E:\vs\ide\MSBuild\Microsoft\VisualStudio\NodeJs\node.exe		0xFFFFCD87FF692080		-		Node.js
+conhost.exe		31648		32340		C:\Windows\System32\conhost.exe		0xFFFFCD87FE943080		-		Microsoft Corporation
+PerfWatson2.exe *32		31248		31096		E:\vs\ide\Common7\IDE\PerfWatson2.exe		0xFFFFCD88015E4080		-		Microsoft Corporation
+MSBuild.exe *32		30708		31096		E:\vs\ide\MSBuild\Current\Bin\MSBuild.exe		0xFFFFCD87F5E33080		-		Microsoft Corporation
+conhost.exe		25656		30708		C:\Windows\System32\conhost.exe		0xFFFFCD8801CE4080		-		Microsoft Corporation
+Microsoft.ServiceHub.Controller.exe		30024		31096		E:\vs\ide\Common7\ServiceHub\controller\Microsoft.ServiceHub.Controller.exe		0xFFFFCD87F9E7F080		-		Microsoft
+ServiceHub.SettingsHost.exe *32		32012		30024		E:\vs\ide\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.SettingsHost.exe		0xFFFFCD87FB948080		-		Microsoft
+conhost.exe		27672		32012		C:\Windows\System32\conhost.exe		0xFFFFCD87F5E75080		-		Microsoft Corporation
+ServiceHub.RoslynCodeAnalysisService32.exe *32		29820		30024		E:\vs\ide\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.RoslynCodeAnalysisService32.exe		0xFFFFCD87FDAEF540		-		Microsoft
+conhost.exe		29816		29820		C:\Windows\System32\conhost.exe		0xFFFFCD87FAACB2C0		-		Microsoft Corporation
+conhost.exe		29672		30024		C:\Windows\System32\conhost.exe		0xFFFFCD8805DE5080		-		Microsoft Corporation
+ServiceHub.VSDetouredHost.exe *32		29596		30024		E:\vs\ide\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.VSDetouredHost.exe		0xFFFFCD87F5C2D080		-		Microsoft
+conhost.exe		12700		29596		C:\Windows\System32\conhost.exe		0xFFFFCD87FD47B080		-		Microsoft Corporation
+ServiceHub.Host.CLR.x86.exe *32		27604		30024		E:\vs\ide\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.Host.CLR.x86.exe		0xFFFFCD87FDB46080		-		Microsoft
+conhost.exe		29284		27604		C:\Windows\System32\conhost.exe		0xFFFFCD87FC7E3080		-		Microsoft Corporation
+ServiceHub.IdentityHost.exe *32		5572		30024		E:\vs\ide\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.IdentityHost.exe		0xFFFFCD87FECEF080		-		Microsoft
+conhost.exe		30924		5572		C:\Windows\System32\conhost.exe		0xFFFFCD87FB961080		-		Microsoft Corporation
+node.exe *32		28004		31096		E:\vs\ide\MSBuild\Microsoft\VisualStudio\NodeJs\node.exe		0xFFFFCD87F794F080		-		Node.js
+conhost.exe		31700		28004		C:\Windows\System32\conhost.exe		0xFFFFCD88089DE080		-		Microsoft Corporation
+node.exe *32		27420		28004		E:\vs\ide\MSBuild\Microsoft\VisualStudio\NodeJs\node.exe		0xFFFFCD87FADB7080		-		Node.js
+powershell.exe		31028		3232		C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe		0xFFFFCD87FF3B5080		-		Microsoft Corporation
+conhost.exe		30012		31028		C:\Windows\System32\conhost.exe		0xFFFFCD87FF4A4080		-		Microsoft Corporation
+dotnet.exe		23956		31028		C:\Program Files\dotnet\dotnet.exe		0xFFFFCD8804DE70C0		-		Microsoft Corporation
+dotnet.exe		29764		23956		C:\Program Files\dotnet\dotnet.exe		0xFFFFCD87FDB21080		-		Microsoft Corporation
+dotnet.exe		24660		29764		C:\Program Files\dotnet\dotnet.exe		0xFFFFCD87FDBA5080		-		Microsoft Corporation
+dotnet.exe		31896		24660		C:\Program Files\dotnet\dotnet.exe		0xFFFFCD8800007080		-		Microsoft Corporation
+chrome.exe		16144		3232		C:\Program Files (x86)\Google\Chrome\Application\chrome.exe		0xFFFFCD87FC7C9080		-		Google Inc.
+chrome.exe		29508		16144		C:\Program Files (x86)\Google\Chrome\Application\chrome.exe		0xFFFFCD87FDBB6080		-		Google Inc.
+chrome.exe		26428		16144		C:\Program Files (x86)\Google\Chrome\Application\chrome.exe		0xFFFFCD88001EE080		-		Google Inc.
+chrome.exe		26348		16144		C:\Program Files (x86)\Google\Chrome\Application\chrome.exe		0xFFFFCD8800069080		-		Google Inc.
+chrome.exe		26076		16144		C:\Program Files (x86)\Google\Chrome\Application\chrome.exe		0xFFFFCD8802DE8080		-		Google Inc.
+chrome.exe		25908		16144		C:\Program Files (x86)\Google\Chrome\Application\chrome.exe		0xFFFFCD87FDD26540		-		Google Inc.
+chrome.exe		25132		16144		C:\Program Files (x86)\Google\Chrome\Application\chrome.exe		0xFFFFCD8800077080		-		Google Inc.
+chrome.exe		24540		16144		C:\Program Files (x86)\Google\Chrome\Application\chrome.exe		0xFFFFCD87FFF4F540		-		Google Inc.
+chrome.exe		23976		16144		C:\Program Files (x86)\Google\Chrome\Application\chrome.exe		0xFFFFCD87FACC4540		-		Google Inc.
+chrome.exe		23948		16144		C:\Program Files (x86)\Google\Chrome\Application\chrome.exe		0xFFFFCD880004A500		-		Google Inc.
+chrome.exe		22688		16144		C:\Program Files (x86)\Google\Chrome\Application\chrome.exe		0xFFFFCD87FF1F2540		-		Google Inc.
+chrome.exe		21764		16144		C:\Program Files (x86)\Google\Chrome\Application\chrome.exe		0xFFFFCD87FF3D9540		-		Google Inc.
+chrome.exe		21252		16144		C:\Program Files (x86)\Google\Chrome\Application\chrome.exe		0xFFFFCD87F65D4080		-		Google Inc.
+chrome.exe		21104		16144		C:\Program Files (x86)\Google\Chrome\Application\chrome.exe		0xFFFFCD87FCA56080		-		Google Inc.
+chrome.exe		20916		16144		C:\Program Files (x86)\Google\Chrome\Application\chrome.exe		0xFFFFCD87FF8F5540		-		Google Inc.
+chrome.exe		20660		16144		C:\Program Files (x86)\Google\Chrome\Application\chrome.exe		0xFFFFCD880D5230C0		-		Google Inc.
+chrome.exe		18048		16144		C:\Program Files (x86)\Google\Chrome\Application\chrome.exe		0xFFFFCD8801CEC500		-		Google Inc.
+chrome.exe		16760		16144		C:\Program Files (x86)\Google\Chrome\Application\chrome.exe		0xFFFFCD87F68EE080		-		Google Inc.
+chrome.exe		16516		16144		C:\Program Files (x86)\Google\Chrome\Application\chrome.exe		0xFFFFCD87F78B1080		-		Google Inc.
+chrome.exe		15668		16144		C:\Program Files (x86)\Google\Chrome\Application\chrome.exe		0xFFFFCD87F4498080		-		Google Inc.
+chrome.exe		15044		16144		C:\Program Files (x86)\Google\Chrome\Application\chrome.exe		0xFFFFCD87FF283540		-		Google Inc.
+chrome.exe		14880		16144		C:\Program Files (x86)\Google\Chrome\Application\chrome.exe		0xFFFFCD87FADC14C0		-		Google Inc.
+chrome.exe		14100		16144		C:\Program Files (x86)\Google\Chrome\Application\chrome.exe		0xFFFFCD87FDC3D540		-		Google Inc.
+chrome.exe		13176		16144		C:\Program Files (x86)\Google\Chrome\Application\chrome.exe		0xFFFFCD87FF71B080		-		Google Inc.
+chrome.exe		11636		16144		C:\Program Files (x86)\Google\Chrome\Application\chrome.exe		0xFFFFCD87FF85B080		-		Google Inc.
+chrome.exe		11372		16144		C:\Program Files (x86)\Google\Chrome\Application\chrome.exe		0xFFFFCD87FFF7D080		-		Google Inc.
+chrome.exe		10152		16144		C:\Program Files (x86)\Google\Chrome\Application\chrome.exe		0xFFFFCD87F5780480		-		Google Inc.
+chrome.exe		7728		16144		C:\Program Files (x86)\Google\Chrome\Application\chrome.exe		0xFFFFCD87FB39B080		-		Google Inc.
+chrome.exe		7172		16144		C:\Program Files (x86)\Google\Chrome\Application\chrome.exe		0xFFFFCD87F72D2080		-		Google Inc.
+chrome.exe		6428		16144		C:\Program Files (x86)\Google\Chrome\Application\chrome.exe		0xFFFFCD8804AD7080		-		Google Inc.
+chrome.exe		3108		16144		C:\Program Files (x86)\Google\Chrome\Application\chrome.exe		0xFFFFCD87FD649080		-		Google Inc.
+chrome.exe		2568		16144		C:\Program Files (x86)\Google\Chrome\Application\chrome.exe		0xFFFFCD87FACAC080		-		Google Inc.
+chrome.exe		2028		16144		C:\Program Files (x86)\Google\Chrome\Application\chrome.exe		0xFFFFCD87FCFF1080		-		Google Inc.
+PCHunter64.exe		12608		3232		C:\Users\Administrator\Desktop\PCHunter_free\PCHunter64.exe		0xFFFFCD87FC7CF080		拒绝		一普明为（北京）信息技术有限公司
+Code.exe		11844		3232		E:\Microsoft VS Code\Code.exe		0xFFFFCD87F5D10540		-		Microsoft Corporation
+Code.exe		27496		11844		E:\Microsoft VS Code\Code.exe		0xFFFFCD88082EA500		-		Microsoft Corporation
+Code.exe		30432		27496		E:\Microsoft VS Code\Code.exe		0xFFFFCD87FBBD9080		-		Microsoft Corporation
+CodeHelper.exe *32		23804		27496		E:\Microsoft VS Code\resources\app\out\vs\workbench\services\files\node\watcher\win32\CodeHelper.exe		0xFFFFCD87F5C9D540		-		Microsoft Corporation
+conhost.exe		24492		23804		C:\Windows\System32\conhost.exe		0xFFFFCD87F77E4540		-		Microsoft Corporation
+Code.exe		11316		27496		E:\Microsoft VS Code\Code.exe		0xFFFFCD880AFEA080		-		Microsoft Corporation
+Code.exe		8556		11844		E:\Microsoft VS Code\Code.exe		0xFFFFCD87F580E540		-		Microsoft Corporation
+Code.exe		6328		11844		E:\Microsoft VS Code\Code.exe		0xFFFFCD87FDBF2080		-		Microsoft Corporation
+YunDetectService.exe *32		10856		3232		E:\baiduyun\BaiduNetdisk\YunDetectService.exe		0xFFFFCD87F68240C0		-
+MySQLWorkbench.exe		10788		3232		E:\soft\workbech\MySQLWorkbench.exe		0xFFFFCD8808ED7080		-		Oracle Corporation
+BaiduNetdisk.exe *32		9324		3232		E:\baiduyun\BaiduNetdisk\BaiduNetdisk.exe		0xFFFFCD87F58C5080		-
+BaiduNetdiskHost.exe *32		9860		9324		E:\baiduyun\BaiduNetdisk\BaiduNetdiskHost.exe		0xFFFFCD87F55B1540		-
+BaiduNetdiskHost.exe *32		9852		9324		E:\baiduyun\BaiduNetdisk\BaiduNetdiskHost.exe		0xFFFFCD87F5A0C080		-
+Shadowsocks.exe *32		9032		3232		C:\Users\Administrator\AppData\Local\Temp\Rar$EXa6648.24901\Shadowsocks.exe		0xFFFFCD87F54D3080		-
+ss_privoxy.exe *32		4884		9032		C:\Users\Administrator\AppData\Local\Temp\Rar$EXa6648.24901\ss_win_temp\ss_privoxy.exe		0xFFFFCD87F54BD540		-		The Privoxy team - www.privoxy.org
+TSVNCache.exe		6740		3232		E:\svn\bin\TSVNCache.exe		0xFFFFCD87F50B0540		-		http://tortoisesvn.net
+Thunder.exe *32		1280		3232		C:\Program Files (x86)\Thunder Network\Thunder\Program\Thunder.exe		0xFFFFCD87F4EE3540		-		深圳市迅雷网络技术有限公司
+ThunderPlatform.exe *32		10876		1280		C:\Program Files (x86)\Thunder Network\Thunder\Program\ThunderPlatform.exe		0xFFFFCD87F6DD1080		-		深圳市迅雷网络技术有限公司
+jusched.exe *32		7964		10372		C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe		0xFFFFCD87F6519080		-		Oracle Corporation
+QQ.exe *32		8004		7644		E:\Bin\QQ.exe		0xFFFFCD87F5AB20C0		-		Tencent
+GameLoader.exe *32		8244		32588		F:\game\dnf\地下城与勇士\GameLoader.exe		0xFFFFCD87FC1D4240		-		Tencent
+GameLoader.exe *32		25868		8244		F:\game\dnf\地下城与勇士\GameLoader.exe		0xFFFFCD87FB970080		-		Tencent
+vmware-tray.exe *32		8368		8936		F:\dnf\vmware-tray.exe		0xFFFFCD87F56EC0C0		-		VMware, Inc.
+GoogleCrashHandler.exe *32		8596		5496		C:\Program Files (x86)\Google\Update\1.3.34.7\GoogleCrashHandler.exe		0xFFFFCD87F4F91080		-		Google LLC
+GoogleCrashHandler64.exe		8620		5496		C:\Program Files (x86)\Google\Update\1.3.34.7\GoogleCrashHandler64.exe		0xFFFFCD87F50304C0		-		Google LLC
+SunloginClient.exe *32		10592		21392		C:\Program Files (x86)\Oray\SunLogin\SunloginClient\SunloginClient.exe		0xFFFFCD88021E70C0		-		上海贝锐信息科技股份有限公司
+SunloginClient.exe *32		18008		10592		C:\Program Files (x86)\Oray\SunLogin\SunloginClient\SunloginClient.exe		0xFFFFCD8803CD3500		-		上海贝锐信息科技股份有限公司
+TenioDL.exe *32		13824		7016		F:\game\dnf\地下城与勇士\TCLS\Tenio\TenioDL\TenioDL.exe		0xFFFFCD87FB552500		-		Tencent
+Code.exe		16380		1328		E:\Microsoft VS Code\Code.exe		0xFFFFCD87FE8C2080		-		Microsoft Corporation
+TenioDL.exe *32		22788		2904		C:\Users\Administrator\AppData\Roaming\Tencent\地下城与勇士\D56FF53E1BED4BCF4F994A61F6C56B43\TenioDL\TenioDL.exe		0xFFFFCD88080D60C0		-		Tencent
+DNF.exe *32		24772		13920		F:\game\dnf\地下城与勇士\DNF.exe		0xFFFFCD87FB9F5080		-		neople
+CrossProxy.exe *32		20252		24772		F:\game\dnf\地下城与勇士\start\Cross\Core\Stable\CrossProxy.exe		0xFFFFCD87FAD69080		-		腾讯计算机系统有限公司
+tgp_gamead.exe *32		30640		20252		F:\game\dnf\地下城与勇士\start\Cross\Apps\DNFTips\tgp_gamead\tgp_gamead.exe		0xFFFFCD88079F4080		-
+TPHelper.exe *32		25680		28440		F:\game\dnf\地下城与勇士\TCLS\TenProtect\TP\TPHelper\TPHelper.exe		0xFFFFCD87FD12D080		-		Tencent
+Idle		0		-		Idle		0xFFFFF8046035F9C0		拒绝

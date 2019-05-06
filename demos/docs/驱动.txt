@@ -1,0 +1,205 @@
+[PC Hunter Standard][内核模块]: 203
+驱动名		基地址		大小		驱动对象		驱动路径		服务名		加载顺序		文件厂商
+ntoskrnl.exe		0xFFFFF8045FE03000		0x00A6E000		-		C:\Windows\system32\ntoskrnl.exe				0		Microsoft Corporation
+hal.dll		0xFFFFF80460872000		0x00096000		-		C:\Windows\system32\hal.dll				1		Microsoft Corporation
+kd.dll		0xFFFFF80460A00000		0x0000B000		-		C:\Windows\system32\kd.dll				2		Microsoft Corporation
+mcupdate_GenuineIntel.dll		0xFFFFF80853730000		0x0018E000		-		C:\Windows\system32\mcupdate_GenuineIntel.dll				3		Microsoft Corporation
+msrpc.sys		0xFFFFF808538C0000		0x00062000		-		C:\Windows\System32\drivers\msrpc.sys				4		Microsoft Corporation
+ksecdd.sys		0xFFFFF80853930000		0x0002B000		0xFFFFCD87EC6CE060		C:\Windows\System32\drivers\ksecdd.sys		KSecDD		5		Microsoft Corporation
+werkernel.sys		0xFFFFF80853960000		0x00011000		-		C:\Windows\System32\drivers\werkernel.sys				6		Microsoft Corporation
+CLFS.SYS		0xFFFFF80853980000		0x0006A000		0xFFFFCD87EC6CC5C0		C:\Windows\System32\drivers\CLFS.SYS		CLFS		7		Microsoft Corporation
+tm.sys		0xFFFFF80853600000		0x00027000		-		C:\Windows\System32\drivers\tm.sys				8		Microsoft Corporation
+PSHED.dll		0xFFFFF80853630000		0x00018000		-		C:\Windows\system32\PSHED.dll				9		Microsoft Corporation
+BOOTVID.dll		0xFFFFF80853650000		0x0000B000		-		C:\Windows\system32\BOOTVID.dll				10		Microsoft Corporation
+FLTMGR.SYS		0xFFFFF80853660000		0x00070000		0xFFFFCD87EC63DC70		C:\Windows\System32\drivers\FLTMGR.SYS		FltMgr		11		Microsoft Corporation
+clipsp.sys		0xFFFFF80854480000		0x0010A000		-		C:\Windows\System32\drivers\clipsp.sys				12		Microsoft Corporation
+cmimcext.sys		0xFFFFF80854590000		0x0000E000		-		C:\Windows\System32\drivers\cmimcext.sys				13		Microsoft Corporation
+ntosext.sys		0xFFFFF808545A0000		0x0000C000		-		C:\Windows\System32\drivers\ntosext.sys				14		Microsoft Corporation
+CI.dll		0xFFFFF80853A00000		0x000D3000		-		C:\Windows\system32\CI.dll				15		Microsoft Corporation
+cng.sys		0xFFFFF80853AE0000		0x000B7000		0xFFFFCD87EAAE9CF0		C:\Windows\System32\drivers\cng.sys		CNG		16		Microsoft Corporation
+Wdf01000.sys		0xFFFFF80853BA0000		0x000D1000		0xFFFFCD87EAADBCF0		C:\Windows\system32\drivers\Wdf01000.sys		Wdf01000		17		Microsoft Corporation
+WDFLDR.SYS		0xFFFFF80853C80000		0x00013000		-		C:\Windows\system32\drivers\WDFLDR.SYS				18		Microsoft Corporation
+WppRecorder.sys		0xFFFFF80853CA0000		0x00010000		-		C:\Windows\system32\drivers\WppRecorder.sys				19		Microsoft Corporation
+SleepStudyHelper.sys		0xFFFFF80853CC0000		0x0000F000		-		C:\Windows\system32\drivers\SleepStudyHelper.sys				20		Microsoft Corporation
+acpiex.sys		0xFFFFF80853CD0000		0x00024000		0xFFFFCD87EAAD5CF0		C:\Windows\System32\Drivers\acpiex.sys		acpiex		21		Microsoft Corporation
+mssecflt.sys		0xFFFFF80853D00000		0x00051000		0xFFFFCD87EAACDCF0		C:\Windows\system32\drivers\mssecflt.sys		MsSecFlt		22		Microsoft Corporation
+SgrmAgent.sys		0xFFFFF80853D60000		0x0001A000		0xFFFFCD87EAB0DCF0		C:\Windows\system32\drivers\SgrmAgent.sys		SgrmAgent		23		Microsoft Corporation
+ACPI.sys		0xFFFFF80853D80000		0x000C8000		0xFFFFCD87EAB0FCF0		C:\Windows\System32\drivers\ACPI.sys		ACPI		24		Microsoft Corporation
+WMILIB.SYS		0xFFFFF80853E50000		0x0000C000		-		C:\Windows\System32\drivers\WMILIB.SYS				25		Microsoft Corporation
+intelpep.sys		0xFFFFF80853E60000		0x00043000		0xFFFFCD87EAB44E40		C:\Windows\System32\drivers\intelpep.sys		intelpep		26		Microsoft Corporation
+WindowsTrustedRT.sys		0xFFFFF80853EB0000		0x00016000		0xFFFFCD87EAA5EE20		C:\Windows\system32\drivers\WindowsTrustedRT.sys		WindowsTrustedRT		27		Microsoft Corporation
+WindowsTrustedRTProxy.sys		0xFFFFF80853ED0000		0x0000B000		0xFFFFCD87EAF69D40		C:\Windows\System32\drivers\WindowsTrustedRTProxy.sys		WindowsTrustedRTProxy		28		Microsoft Corporation
+pcw.sys		0xFFFFF80853EE0000		0x00014000		0xFFFFCD87EC63BE00		C:\Windows\System32\drivers\pcw.sys		pcw		29		Microsoft Corporation
+msisadrv.sys		0xFFFFF80853F00000		0x0000B000		0xFFFFCD87EC63C8F0		C:\Windows\System32\drivers\msisadrv.sys		msisadrv		30		Microsoft Corporation
+pci.sys		0xFFFFF80853F10000		0x0006B000		0xFFFFCD87EC63CD10		C:\Windows\System32\drivers\pci.sys		pci		31		Microsoft Corporation
+vdrvroot.sys		0xFFFFF80853F80000		0x00012000		0xFFFFCD87EC566C70		C:\Windows\System32\drivers\vdrvroot.sys		vdrvroot		32		Microsoft Corporation
+pdc.sys		0xFFFFF80853FA0000		0x0002E000		0xFFFFCD87EC5686A0		C:\Windows\system32\drivers\pdc.sys		pdc		33		Microsoft Corporation
+CEA.sys		0xFFFFF80853FD0000		0x00019000		-		C:\Windows\system32\drivers\CEA.sys				34		Microsoft Corporation
+partmgr.sys		0xFFFFF80853FF0000		0x0002F000		0xFFFFCD87EC5B58C0		C:\Windows\System32\drivers\partmgr.sys		partmgr		35		Microsoft Corporation
+spaceport.sys		0xFFFFF80854020000		0x000A3000		0xFFFFCD87EC5B6060		C:\Windows\System32\drivers\spaceport.sys		spaceport		36		Microsoft Corporation
+volmgr.sys		0xFFFFF808540D0000		0x00019000		0xFFFFCD87EC5B7590		C:\Windows\System32\drivers\volmgr.sys		volmgr		37		Microsoft Corporation
+volmgrx.sys		0xFFFFF808540F0000		0x00063000		0xFFFFCD87EC5B7B60		C:\Windows\System32\drivers\volmgrx.sys		volmgrx		38		Microsoft Corporation
+vsock.sys		0xFFFFF80854160000		0x00017000		0xFFFFCD87EC5B7D70		C:\Windows\system32\DRIVERS\vsock.sys		vsock		39		VMware, Inc.
+vmci.sys		0xFFFFF80854180000		0x0001A000		0xFFFFCD87EC569CD0		C:\Windows\System32\drivers\vmci.sys		vmci		40		VMware, Inc.
+mountmgr.sys		0xFFFFF808541A0000		0x0001F000		0xFFFFCD87EC56E350		C:\Windows\System32\drivers\mountmgr.sys		mountmgr		41		Microsoft Corporation
+iaStorAC.sys		0xFFFFF80855110000		0x00B81000		0xFFFFCD87EC56E900		C:\Windows\System32\drivers\iaStorAC.sys		iaStorAC		42		Intel Corporation
+storport.sys		0xFFFFF80855CA0000		0x0009B000		-		C:\Windows\System32\drivers\storport.sys				43		Microsoft Corporation
+EhStorClass.sys		0xFFFFF80855D40000		0x0001C000		0xFFFFCD87EC551D70		C:\Windows\System32\drivers\EhStorClass.sys		EhStorClass		44		Microsoft Corporation
+fileinfo.sys		0xFFFFF80855D60000		0x0001A000		0xFFFFCD87EC622B90		C:\Windows\System32\drivers\fileinfo.sys		FileInfo		45		Microsoft Corporation
+Wof.sys		0xFFFFF80855D80000		0x0003E000		0xFFFFCD87EC6CAD60		C:\Windows\System32\Drivers\Wof.sys				46		Microsoft Corporation
+Ntfs.sys		0xFFFFF80854600000		0x0028D000		0xFFFFCD87EC6CCA90		C:\Windows\System32\Drivers\Ntfs.sys				47		Microsoft Corporation
+Fs_Rec.sys		0xFFFFF80854890000		0x0000D000		0xFFFFCD87EC6CE750		C:\Windows\System32\Drivers\Fs_Rec.sys				48		Microsoft Corporation
+ndis.sys		0xFFFFF808548A0000		0x00153000		0xFFFFCD87EC6CFBA0		C:\Windows\system32\drivers\ndis.sys		NDIS		49		Microsoft Corporation
+NETIO.SYS		0xFFFFF80854A00000		0x00095000		-		C:\Windows\system32\drivers\NETIO.SYS				50		Microsoft Corporation
+ksecpkg.sys		0xFFFFF80854AA0000		0x00032000		0xFFFFCD87EC6D0C10		C:\Windows\System32\Drivers\ksecpkg.sys		KSecPkg		51		Microsoft Corporation
+tcpip.sys		0xFFFFF80854AE0000		0x002DB000		0xFFFFCD87EC6D0E20		C:\Windows\System32\drivers\tcpip.sys		Tcpip		52		Microsoft Corporation
+fwpkclnt.sys		0xFFFFF80854DC0000		0x00078000		-		C:\Windows\System32\drivers\fwpkclnt.sys				53		Microsoft Corporation
+wfplwfs.sys		0xFFFFF80854E40000		0x00030000		0xFFFFCD87EC8F3D50		C:\Windows\System32\drivers\wfplwfs.sys		WFPLWFS		54		Microsoft Corporation
+VmsProxy.sys		0xFFFFF80854E80000		0x0000E000		0xFFFFCD87EC7498F0		C:\Windows\system32\drivers\VmsProxy.sys		VmsProxy		55		Microsoft Corporation
+vmbkmclr.sys		0xFFFFF80854E90000		0x0001F000		-		C:\Windows\system32\drivers\vmbkmclr.sys				56		Microsoft Corporation
+VmsProxyHNic.sys		0xFFFFF80854EB0000		0x0000E000		0xFFFFCD87EC749D70		C:\Windows\system32\drivers\VmsProxyHNic.sys		VMSNPXY		57		Microsoft Corporation
+fvevol.sys		0xFFFFF80854EC0000		0x000C8000		0xFFFFCD87EC74CCB0		C:\Windows\System32\DRIVERS\fvevol.sys		fvevol		58		Microsoft Corporation
+volume.sys		0xFFFFF80854F90000		0x0000B000		0xFFFFCD87EC74FD50		C:\Windows\System32\drivers\volume.sys		volume		59		Microsoft Corporation
+volsnap.sys		0xFFFFF80854FA0000		0x0006D000		0xFFFFCD87EC7508F0		C:\Windows\System32\drivers\volsnap.sys		volsnap		60		Microsoft Corporation
+rdyboost.sys		0xFFFFF80855010000		0x0004F000		0xFFFFCD87EC750B00		C:\Windows\System32\drivers\rdyboost.sys		rdyboost		61		Microsoft Corporation
+mup.sys		0xFFFFF80855060000		0x00025000		0xFFFFCD87EC5589F0		C:\Windows\System32\Drivers\mup.sys		Mup		62		Microsoft Corporation
+iorate.sys		0xFFFFF80855090000		0x00011000		0xFFFFCD87EC558E30		C:\Windows\system32\drivers\iorate.sys		iorate		63		Microsoft Corporation
+disk.sys		0xFFFFF808550C0000		0x0001C000		0xFFFFCD87EC758B00		C:\Windows\System32\drivers\disk.sys		Disk		64		Microsoft Corporation
+CLASSPNP.SYS		0xFFFFF808541C0000		0x0006F000		-		C:\Windows\System32\drivers\CLASSPNP.SYS				65		Microsoft Corporation
+crashdmp.sys		0xFFFFF80855DC0000		0x0001C000		-		C:\Windows\System32\Drivers\crashdmp.sys				66		Microsoft Corporation
+cdrom.sys		0xFFFFF80465950000		0x0002E000		0xFFFFCD87EC847D40		C:\Windows\System32\drivers\cdrom.sys		cdrom		67		Microsoft Corporation
+filecrypt.sys		0xFFFFF80465980000		0x00015000		0xFFFFCD87EC7EC8F0		C:\Windows\system32\drivers\filecrypt.sys		FileCrypt		68		Microsoft Corporation
+tbs.sys		0xFFFFF804659A0000		0x0000E000		-		C:\Windows\system32\drivers\tbs.sys				69		Microsoft Corporation
+Null.SYS		0xFFFFF804659B0000		0x0000A000		0xFFFFCD87EC79E8F0		C:\Windows\System32\Drivers\Null.SYS				70		Microsoft Corporation
+Beep.SYS		0xFFFFF804659C0000		0x0000A000		0xFFFFCD87EC79D8F0		C:\Windows\System32\Drivers\Beep.SYS				71		Microsoft Corporation
+dxgkrnl.sys		0xFFFFF80463C00000		0x0033E000		0xFFFFCD87EC861C20		C:\Windows\System32\drivers\dxgkrnl.sys		DXGKrnl		72		Microsoft Corporation
+watchdog.sys		0xFFFFF804659D0000		0x00016000		-		C:\Windows\System32\drivers\watchdog.sys				73		Microsoft Corporation
+BasicDisplay.sys		0xFFFFF80464C00000		0x00016000		0xFFFFCD87EC861E30		C:\Windows\System32\DriverStore\FileRepository\basicdisplay.inf_amd64_5103ac179273be89\BasicDisplay.sys		BasicDisplay		74		Microsoft Corporation
+BasicRender.sys		0xFFFFF80464C20000		0x00011000		0xFFFFCD87EC8618F0		C:\Windows\System32\DriverStore\FileRepository\basicrender.inf_amd64_0b8d03c3bc0e7fd9\BasicRender.sys		BasicRender		75		Microsoft Corporation
+Npfs.SYS		0xFFFFF80464C40000		0x0001C000		0xFFFFCD87EC83CB00		C:\Windows\System32\Drivers\Npfs.SYS				76		Microsoft Corporation
+Msfs.SYS		0xFFFFF80464C60000		0x00011000		0xFFFFCD87EC862E00		C:\Windows\System32\Drivers\Msfs.SYS				77		Microsoft Corporation
+tdx.sys		0xFFFFF80464C80000		0x00027000		0xFFFFCD87EC86A8F0		C:\Windows\system32\DRIVERS\tdx.sys		tdx		78		Microsoft Corporation
+TDI.SYS		0xFFFFF80464CB0000		0x00010000		-		C:\Windows\system32\DRIVERS\TDI.SYS				79		Microsoft Corporation
+ws2ifsl.sys		0xFFFFF80464CD0000		0x0000E000		0xFFFFCD87EC874E00		C:\Windows\system32\drivers\ws2ifsl.sys		ws2ifsl		80		Microsoft Corporation
+netbt.sys		0xFFFFF80464CE0000		0x00051000		0xFFFFCD87EC87BC10		C:\Windows\System32\DRIVERS\netbt.sys		NetBT		81		Microsoft Corporation
+afunix.sys		0xFFFFF80464D40000		0x00013000		0xFFFFCD87EC87BE20		C:\Windows\system32\drivers\afunix.sys		afunix		82		Microsoft Corporation
+afd.sys		0xFFFFF80464B00000		0x000A6000		0xFFFFCD87EC885D40		C:\Windows\system32\drivers\afd.sys		AFD		83		Microsoft Corporation
+npcap.sys		0xFFFFF80464D60000		0x00015000		0xFFFFCD87EC88BE20		C:\Windows\system32\DRIVERS\npcap.sys		npcap		84		Insecure.Com LLC.
+npf.sys		0xFFFFF80464BB0000		0x00015000		0xFFFFCD87EC895E20		C:\Windows\system32\DRIVERS\npf.sys		npf		85		Insecure.Com LLC.
+vwififlt.sys		0xFFFFF80464BD0000		0x0001A000		0xFFFFCD87EC8A28F0		C:\Windows\System32\drivers\vwififlt.sys		vwififlt		86		Microsoft Corporation
+vfpext.sys		0xFFFFF80854230000		0x00166000		0xFFFFCD87EC8A8CA0		C:\Windows\system32\drivers\vfpext.sys		VfpExt		87		Microsoft Corporation
+pacer.sys		0xFFFFF80463F40000		0x0002B000		0xFFFFCD87EC8B1CF0		C:\Windows\System32\drivers\pacer.sys		Psched		88		Microsoft Corporation
+netbios.sys		0xFFFFF808543A0000		0x00014000		0xFFFFCD87EC8B4CF0		C:\Windows\system32\drivers\netbios.sys		NetBIOS		89		Microsoft Corporation
+rdbss.sys		0xFFFFF808543C0000		0x0007A000		0xFFFFCD87EC771D80		C:\Windows\system32\DRIVERS\rdbss.sys		rdbss		90		Microsoft Corporation
+csc.sys		0xFFFFF80461F00000		0x00094000		0xFFFFCD87EC76CDC0		C:\Windows\system32\drivers\csc.sys		CSC		91		Microsoft Corporation
+nsiproxy.sys		0xFFFFF80461FA0000		0x00012000		0xFFFFCD87EC851CF0		C:\Windows\system32\drivers\nsiproxy.sys		nsiproxy		92		Microsoft Corporation
+npsvctrig.sys		0xFFFFF80461FC0000		0x0000D000		0xFFFFCD87EC791CF0		C:\Windows\System32\drivers\npsvctrig.sys		npsvctrig		93		Microsoft Corporation
+mssmbios.sys		0xFFFFF80461FD0000		0x00010000		0xFFFFCD87EC787CF0		C:\Windows\System32\drivers\mssmbios.sys		mssmbios		94		Microsoft Corporation
+gpuenergydrv.sys		0xFFFFF80461FF0000		0x0000A000		0xFFFFCD87EC87EB40		C:\Windows\System32\drivers\gpuenergydrv.sys		GpuEnergyDrv		95		Microsoft Corporation
+dfsc.sys		0xFFFFF80461800000		0x0002C000		0xFFFFCD87EC7CFE00		C:\Windows\System32\Drivers\dfsc.sys		Dfsc		96		Microsoft Corporation
+bam.sys		0xFFFFF80461850000		0x00014000		0xFFFFCD87EC7C3E00		C:\Windows\system32\drivers\bam.sys		bam		97		Microsoft Corporation
+ahcache.sys		0xFFFFF80461870000		0x0004E000		0xFFFFCD87EC78ECF0		C:\Windows\system32\DRIVERS\ahcache.sys		ahcache		98		Microsoft Corporation
+vmbusr.sys		0xFFFFF804618C0000		0x0003C000		0xFFFFCD87EC8958F0		C:\Windows\System32\drivers\vmbusr.sys		vmbusr		99		Microsoft Corporation
+hvsocket.sys		0xFFFFF80461900000		0x00028000		-		C:\Windows\System32\drivers\hvsocket.sys				100		Microsoft Corporation
+winhvr.sys		0xFFFFF80461930000		0x0001E000		-		C:\Windows\System32\drivers\winhvr.sys				101		Microsoft Corporation
+vmswitch.sys		0xFFFFF80461950000		0x00354000		0xFFFFCD87EC8C5CF0		C:\Windows\System32\drivers\vmswitch.sys		vmsmp		102		Microsoft Corporation
+wnv.sys		0xFFFFF80461CB0000		0x000CD000		-		C:\Windows\System32\drivers\wnv.sys				103		Microsoft Corporation
+loop.sys		0xFFFFF80461D80000		0x0000C000		0xFFFFCD87ECB86E30		C:\Windows\System32\drivers\loop.sys		kmloop		104		Microsoft Corporation
+vmnetadapter.sys		0xFFFFF80461D90000		0x0000B000		0xFFFFCD87ECC2BD50		C:\Windows\system32\DRIVERS\vmnetadapter.sys		VMnetAdapter		105		VMware, Inc.
+VMNET.SYS		0xFFFFF80461DA0000		0x0000C000		-		C:\Windows\system32\DRIVERS\VMNET.SYS				106		VMware, Inc.
+Vid.sys		0xFFFFF80461DB0000		0x00084000		0xFFFFCD87EC8068F0		C:\Windows\System32\drivers\Vid.sys		Vid		107		Microsoft Corporation
+CompositeBus.sys		0xFFFFF80461E40000		0x00011000		0xFFFFCD87ECBCE8F0		C:\Windows\System32\DriverStore\FileRepository\compositebus.inf_amd64_e4d35af746093dc3\CompositeBus.sys		CompositeBus		108		Microsoft Corporation
+kdnic.sys		0xFFFFF80461E60000		0x0000D000		0xFFFFCD87ECAF4D20		C:\Windows\System32\drivers\kdnic.sys		kdnic		109		Microsoft Corporation
+umbus.sys		0xFFFFF80461E70000		0x00015000		0xFFFFCD87ECC09970		C:\Windows\System32\drivers\umbus.sys		umbus		110		Microsoft Corporation
+igdkmd64.sys		0xFFFFF80466DB0000		0x00ECA000		0xFFFFCD87ECBE9DF0		C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_24de78387e6208e4\igdkmd64.sys		igfx		111		Intel Corporation
+USBXHCI.SYS		0xFFFFF80467C80000		0x00078000		0xFFFFCD87EC6D1870		C:\Windows\System32\drivers\USBXHCI.SYS		USBXHCI		112		Microsoft Corporation
+ucx01000.sys		0xFFFFF80467D00000		0x0003F000		0xFFFFCD87EC9ADA90		C:\Windows\system32\drivers\ucx01000.sys		Ucx01000		113		Microsoft Corporation
+TeeDriverW8x64.sys		0xFFFFF80467D40000		0x0003A000		0xFFFFCD87ECC838F0		C:\Windows\System32\drivers\TeeDriverW8x64.sys		MEIx64		114		Intel Corporation
+rt640x64.sys		0xFFFFF80466A00000		0x000F9000		0xFFFFCD87ECDC1B80		C:\Windows\System32\drivers\rt640x64.sys		rt640x64		115		Realtek                                            
+HDAudBus.sys		0xFFFFF80466B00000		0x0001F000		0xFFFFCD87EC9AD870		C:\Windows\System32\drivers\HDAudBus.sys		HDAudBus		116		Microsoft Corporation
+portcls.sys		0xFFFFF80466B20000		0x00065000		-		C:\Windows\System32\drivers\portcls.sys				117		Microsoft Corporation
+drmk.sys		0xFFFFF80466B90000		0x00021000		-		C:\Windows\System32\drivers\drmk.sys				118		Microsoft Corporation
+ks.sys		0xFFFFF80466BC0000		0x00076000		-		C:\Windows\System32\drivers\ks.sys				119		Microsoft Corporation
+intelppm.sys		0xFFFFF80466C40000		0x0003E000		0xFFFFCD87ECDBED90		C:\Windows\System32\drivers\intelppm.sys		intelppm		120		Microsoft Corporation
+acpipagr.sys		0xFFFFF80466C80000		0x0000B000		0xFFFFCD87ECDD4840		C:\Windows\System32\drivers\acpipagr.sys		acpipagr		121		Microsoft Corporation
+wmiacpi.sys		0xFFFFF80466C90000		0x0000C000		0xFFFFCD87ECDD6060		C:\Windows\System32\drivers\wmiacpi.sys		WmiAcpi		122		Microsoft Corporation
+tpm.sys		0xFFFFF80466CA0000		0x00040000		0xFFFFCD87ECDD7E10		C:\Windows\System32\drivers\tpm.sys		TPM		123		Microsoft Corporation
+vpcivsp.sys		0xFFFFF80466CF0000		0x00027000		0xFFFFCD87ECDDD2F0		C:\Windows\System32\drivers\vpcivsp.sys		vpcivsp		124		Microsoft Corporation
+storvsp.sys		0xFFFFF80466D20000		0x0002B000		0xFFFFCD87ECDEFB10		C:\Windows\System32\drivers\storvsp.sys		storvsp		125		Microsoft Corporation
+synth3dvsp.sys		0xFFFFF80466D50000		0x00020000		0xFFFFCD87ECDF4280		C:\Windows\System32\drivers\synth3dvsp.sys		Synth3dVsp		126		Microsoft Corporation
+NdisVirtualBus.sys		0xFFFFF80466D80000		0x0000D000		0xFFFFCD87ECDF4CA0		C:\Windows\System32\drivers\NdisVirtualBus.sys		NdisVirtualBus		127		Microsoft Corporation
+swenum.sys		0xFFFFF80466D90000		0x0000C000		0xFFFFCD87ECDFABD0		C:\Windows\System32\DriverStore\FileRepository\swenum.inf_amd64_31f554b660026323\swenum.sys		swenum		128		Microsoft Corporation
+rdpbus.sys		0xFFFFF80466DA0000		0x0000E000		0xFFFFCD87ECE0C570		C:\Windows\System32\drivers\rdpbus.sys		rdpbus		129		Microsoft Corporation
+UsbHub3.sys		0xFFFFF80463740000		0x00093000		0xFFFFCD87EEEDF6C0		C:\Windows\System32\drivers\UsbHub3.sys		USBHUB3		130		Microsoft Corporation
+USBD.SYS		0xFFFFF804637E0000		0x0000E000		-		C:\Windows\System32\drivers\USBD.SYS				131		Microsoft Corporation
+RTKVHD64.sys		0xFFFFF80463000000		0x0060F000		0xFFFFCD87EED24E10		C:\Windows\system32\drivers\RTKVHD64.sys		IntcAzAudAddService		132		Realtek Semiconductor Corp.
+ksthunk.sys		0xFFFFF80463610000		0x0000F000		0xFFFFCD87F2456E00		C:\Windows\system32\drivers\ksthunk.sys		ksthunk		133		Microsoft Corporation
+IntcDAud.sys		0xFFFFF80463620000		0x00099000		0xFFFFCD87F2470E00		C:\Windows\System32\DriverStore\FileRepository\intcdaud.inf_amd64_ad5691824a5386fe\IntcDAud.sys		IntcDAud		134		Intel(R) Corporation
+usbccgp.sys		0xFFFFF804636E0000		0x00031000		0xFFFFCD87F25C1E10		C:\Windows\System32\drivers\usbccgp.sys		usbccgp		135		Microsoft Corporation
+hidusb.sys		0xFFFFF80463720000		0x00012000		0xFFFFCD87EAB39E10		C:\Windows\System32\drivers\hidusb.sys		HidUsb		136		Microsoft Corporation
+HIDCLASS.SYS		0xFFFFF80467D80000		0x0003B000		-		C:\Windows\System32\drivers\HIDCLASS.SYS				137		Microsoft Corporation
+HIDPARSE.SYS		0xFFFFF80467DC0000		0x00013000		-		C:\Windows\System32\drivers\HIDPARSE.SYS				138		Microsoft Corporation
+kbdhid.sys		0xFFFFF80467DE0000		0x00011000		0xFFFFCD87F2C0EE10		C:\Windows\System32\drivers\kbdhid.sys		kbdhid		139		Microsoft Corporation
+kbdclass.sys		0xFFFFF80461E90000		0x00013000		0xFFFFCD87EC9B4E10		C:\Windows\System32\drivers\kbdclass.sys		kbdclass		140		Microsoft Corporation
+dump_diskdump.sys		0xFFFFF80461EB0000		0x0000F000		-		C:\Windows\System32\Drivers\dump_diskdump.sys				141		文件不存在
+win32k.sys		0xFFFFCB4C53C80000		0x0008B000		-		C:\Windows\System32\win32k.sys				142		Microsoft Corporation
+win32kfull.sys		0xFFFFCB4C53400000		0x00391000		-		C:\Windows\System32\win32kfull.sys				143		Microsoft Corporation
+win32kbase.sys		0xFFFFCB4C537A0000		0x00268000		-		C:\Windows\System32\win32kbase.sys				144		Microsoft Corporation
+dump_iaStorAC.sys		0xFFFFF80465BD0000		0x00B81000		-		C:\Windows\System32\Drivers\dump_iaStorAC.sys				145		文件不存在
+dump_dumpfve.sys		0xFFFFF80466780000		0x0001D000		-		C:\Windows\System32\Drivers\dump_dumpfve.sys				146		文件不存在
+mouhid.sys		0xFFFFF804667A0000		0x0000F000		0xFFFFCD87F2D58E20		C:\Windows\System32\drivers\mouhid.sys		mouhid		147		Microsoft Corporation
+mouclass.sys		0xFFFFF804667B0000		0x00013000		0xFFFFCD87F2D55E10		C:\Windows\System32\drivers\mouclass.sys		mouclass		148		Microsoft Corporation
+dxgmms2.sys		0xFFFFF80465A00000		0x000D8000		-		C:\Windows\System32\drivers\dxgmms2.sys				149		Microsoft Corporation
+monitor.sys		0xFFFFF80465AE0000		0x00016000		0xFFFFCD87F2EE7E20		C:\Windows\System32\drivers\monitor.sys		monitor		150		Microsoft Corporation
+cdd.dll		0xFFFFCB4C53A10000		0x00048000		-		C:\Windows\System32\cdd.dll				151		Microsoft Corporation
+luafv.sys		0xFFFFF80465B00000		0x00029000		0xFFFFCD87F3B902E0		C:\Windows\system32\drivers\luafv.sys		luafv		152		Microsoft Corporation
+wcifs.sys		0xFFFFF80465B30000		0x0002D000		0xFFFFCD87F3A24E00		C:\Windows\system32\drivers\wcifs.sys		wcifs		153		Microsoft Corporation
+cldflt.sys		0xFFFFF80465390000		0x00076000		0xFFFFCD87F3CC2E00		C:\Windows\system32\drivers\cldflt.sys		CldFlt		154		Microsoft Corporation
+storqosflt.sys		0xFFFFF80465B60000		0x0001B000		0xFFFFCD87F3CFA2C0		C:\Windows\system32\drivers\storqosflt.sys		storqosflt		155		Microsoft Corporation
+mslldp.sys		0xFFFFF80465B80000		0x0001A000		0xFFFFCD87F3F5FCF0		C:\Windows\system32\drivers\mslldp.sys		MsLldp		156		Microsoft Corporation
+vmnetbridge.sys		0xFFFFF80465BA0000		0x00012000		0xFFFFCD87F40BEE00		C:\Windows\system32\DRIVERS\vmnetbridge.sys		VMnetBridge		157		VMware, Inc.
+lltdio.sys		0xFFFFF804667D0000		0x00018000		0xFFFFCD87EAA76380		C:\Windows\system32\drivers\lltdio.sys		lltdio		158		Microsoft Corporation
+vmnetuserif.sys		0xFFFFF804667F0000		0x0000B000		0xFFFFCD87EAAB9AD0		C:\Windows\system32\DRIVERS\vmnetuserif.sys		VMnetuserif		159		VMware, Inc.
+rspndr.sys		0xFFFFF80461EC0000		0x0001B000		0xFFFFCD87EAA72AD0		C:\Windows\system32\drivers\rspndr.sys		rspndr		160		Microsoft Corporation
+wanarp.sys		0xFFFFF80461EE0000		0x0001C000		0xFFFFCD87EAA73AD0		C:\Windows\System32\DRIVERS\wanarp.sys		wanarp		161		Microsoft Corporation
+ndisuio.sys		0xFFFFF80461830000		0x00018000		0xFFFFCD87F410FE00		C:\Windows\system32\drivers\ndisuio.sys		Ndisuio		162		Microsoft Corporation
+nwifi.sys		0xFFFFF80465410000		0x0008C000		0xFFFFCD87F3DCE8F0		C:\Windows\system32\DRIVERS\nwifi.sys		NativeWifiP		163		Microsoft Corporation
+winquic.sys		0xFFFFF804654A0000		0x0002B000		0xFFFFCD87F41612F0		C:\Windows\system32\drivers\winquic.sys		WinQuic		164		Microsoft Corporation
+HTTP.sys		0xFFFFF804654D0000		0x00139000		0xFFFFCD87F4171C30		C:\Windows\system32\drivers\HTTP.sys		HTTP		165		Microsoft Corporation
+bowser.sys		0xFFFFF80465610000		0x00025000		0xFFFFCD87F42CFDD0		C:\Windows\system32\DRIVERS\bowser.sys		bowser		166		Microsoft Corporation
+mpsdrv.sys		0xFFFFF80465640000		0x0001A000		0xFFFFCD87F42D62F0		C:\Windows\System32\drivers\mpsdrv.sys		mpsdrv		167		Microsoft Corporation
+mrxsmb.sys		0xFFFFF80465660000		0x00089000		0xFFFFCD87F42609F0		C:\Windows\system32\DRIVERS\mrxsmb.sys		mrxsmb		168		Microsoft Corporation
+mrxsmb20.sys		0xFFFFF804656F0000		0x00046000		0xFFFFCD87F42E9E50		C:\Windows\system32\DRIVERS\mrxsmb20.sys		mrxsmb20		169		Microsoft Corporation
+vmx86.sys		0xFFFFF80465740000		0x00020000		0xFFFFCD87F436C2D0		C:\Windows\system32\DRIVERS\vmx86.sys		vmx86		170		VMware, Inc.
+hcmon.sys		0xFFFFF80465770000		0x00015000		0xFFFFCD87F436BDF0		C:\Windows\system32\DRIVERS\hcmon.sys		hcmon		171		VMware, Inc.
+IntelHaxm.sys		0xFFFFF80465790000		0x0002E000		0xFFFFCD87F4395C00		C:\Windows\system32\DRIVERS\IntelHaxm.sys		IntelHaxm		172		Intel  Corporation
+mmcss.sys		0xFFFFF804657C0000		0x00014000		0xFFFFCD87F4388390		C:\Windows\system32\drivers\mmcss.sys		MMCSS		173		Microsoft Corporation
+mqac.sys		0xFFFFF804657E0000		0x00033000		0xFFFFCD87F4493D20		C:\Windows\system32\drivers\mqac.sys		MQAC		174		Microsoft Corporation
+srvnet.sys		0xFFFFF80465820000		0x0004E000		0xFFFFCD87F44A59F0		C:\Windows\System32\DRIVERS\srvnet.sys		srvnet		175		Microsoft Corporation
+Ndu.sys		0xFFFFF80465870000		0x00027000		0xFFFFCD87F44C1E40		C:\Windows\system32\drivers\Ndu.sys		Ndu		176		Microsoft Corporation
+peauth.sys		0xFFFFF80465120000		0x000D6000		0xFFFFCD87F44A78C0		C:\Windows\system32\drivers\peauth.sys		PEAUTH		177		Microsoft Corporation
+tcpipreg.sys		0xFFFFF80465200000		0x00014000		0xFFFFCD87F453CE10		C:\Windows\System32\drivers\tcpipreg.sys		tcpipreg		178		Microsoft Corporation
+vstor2-x64.sys		0xFFFFF80465BC0000		0x0000C000		0xFFFFCD87F4540DD0		C:\Windows\SysWOW64\drivers\vstor2-x64.sys		vstor2-mntapi20-shared		179		VMware, Inc.
+srv2.sys		0xFFFFF80465220000		0x000C4000		0xFFFFCD87F4561B70		C:\Windows\System32\DRIVERS\srv2.sys		srv2		180		Microsoft Corporation
+rassstp.sys		0xFFFFF804652F0000		0x0001C000		0xFFFFCD87F3A1C9F0		C:\Windows\System32\drivers\rassstp.sys		RasSstp		181		Microsoft Corporation
+NDProxy.sys		0xFFFFF80465310000		0x00018000		0xFFFFCD87F44BFDF0		C:\Windows\System32\DRIVERS\NDProxy.sys		ndproxy		182		Microsoft Corporation
+AgileVpn.sys		0xFFFFF80465330000		0x00027000		0xFFFFCD87F4616E20		C:\Windows\System32\drivers\AgileVpn.sys		RasAgileVpn		183		Microsoft Corporation
+rasl2tp.sys		0xFFFFF80465360000		0x00021000		0xFFFFCD87F45E6E30		C:\Windows\System32\drivers\rasl2tp.sys		Rasl2tp		184		Microsoft Corporation
+raspptp.sys		0xFFFFF804658A0000		0x00020000		0xFFFFCD87F4644E30		C:\Windows\System32\drivers\raspptp.sys		PptpMiniport		185		Microsoft Corporation
+raspppoe.sys		0xFFFFF804658D0000		0x0001C000		0xFFFFCD87F4666E30		C:\Windows\System32\drivers\raspppoe.sys		RasPppoe		186		Microsoft Corporation
+ndistapi.sys		0xFFFFF804658F0000		0x0000F000		0xFFFFCD87F4668E20		C:\Windows\System32\DRIVERS\ndistapi.sys		NdisTapi		187		Microsoft Corporation
+ndiswan.sys		0xFFFFF80465900000		0x0003B000		0xFFFFCD87F461CE00		C:\Windows\System32\drivers\ndiswan.sys		NdisWan		188		Microsoft Corporation
+condrv.sys		0xFFFFF80855DE0000		0x00013000		0xFFFFCD87F464A9F0		C:\Windows\System32\drivers\condrv.sys		condrv		189		Microsoft Corporation
+hvsocketcontrol.sys		0xFFFFF80465940000		0x0000D000		0xFFFFCD87F4BCCE40		C:\Windows\system32\drivers\hvsocketcontrol.sys		hvsocketcontrol		190		Microsoft Corporation
+vhdparser.sys		0xFFFFF80854440000		0x00010000		0xFFFFCD87F4BE3D70		C:\Windows\system32\drivers\vhdparser.sys		vhdparser		191		Microsoft Corporation
+FsDepends.sys		0xFFFFF80854460000		0x00016000		0xFFFFCD87F4BD3D60		C:\Windows\System32\drivers\FsDepends.sys		FsDepends		192		Microsoft Corporation
+vhdmp.sys		0xFFFFF804695B0000		0x000C1000		0xFFFFCD87F4BE6D40		C:\Windows\System32\drivers\vhdmp.sys		vhdmp		193		Microsoft Corporation
+winnat.sys		0xFFFFF80469680000		0x00042000		0xFFFFCD87F5DDBE30		C:\Windows\system32\drivers\winnat.sys		WinNat		194		Microsoft Corporation
+qwavedrv.sys		0xFFFFF804696D0000		0x00014000		0xFFFFCD87F572EA00		C:\Windows\system32\drivers\qwavedrv.sys		QWAVEdrv		195		Microsoft Corporation
+vmusb.sys		0xFFFFF804696F0000		0x00011000		0xFFFFCD87F54CA530		C:\Windows\System32\drivers\vmusb.sys		vmusb		196		VMware, Inc.
+TesMon.sys		0xFFFFF80468600000		0x00238000		0xFFFFCD87F5C8F060		C:\Windows\system32\drivers\TesMon.sys		TESMON		197		Tencent
+WinUSB.SYS		0xFFFFF80468840000		0x0001E000		0xFFFFCD87F7DF5C00		C:\Windows\System32\drivers\WinUSB.SYS		WINUSB		198		Microsoft Corporation
+tesrsdt.sys		0xFFFFF80468A60000		0x00062000		0xFFFFCD8804ADE2C0		C:\Windows\system32\drivers\tesrsdt.sys		tesrsdt		199		TENCENT
+tesxnginx.sys		0xFFFFF80468B70000		0x0062B000		0xFFFFCD87FFFAE990		C:\Windows\tesxnginx.sys				200		文件不存在
+PCHunter64as.sys		0xFFFFF804691A0000		0x000B9000		0xFFFFCD88042DCE30		C:\Users\Administrator\Desktop\PCHunter_free\PCHunter64as.sys				201		文件不存在
+TesSafe.sys		0xFFFFF80469260000		0x001F0000		0xFFFFCD88068CF730		C:\Windows\system32\TesSafe.sys		TesSafe		202		TENCENT
