@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\workspace\\money\\demos\\demos.csproj": {}
+    "F:\\workspace\\money\\dllmain\\dllmain.csproj": {}
   },
   "projects": {
-    "F:\\workspace\\money\\demos\\demos.csproj": {
+    "F:\\workspace\\money\\dllmain\\dllmain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\workspace\\money\\demos\\demos.csproj",
-        "projectName": "demos",
-        "projectPath": "F:\\workspace\\money\\demos\\demos.csproj",
+        "projectUniqueName": "F:\\workspace\\money\\dllmain\\dllmain.csproj",
+        "projectName": "dllmain",
+        "projectPath": "F:\\workspace\\money\\dllmain\\dllmain.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\workspace\\money\\demos\\obj\\",
+        "outputPath": "F:\\workspace\\money\\dllmain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -20,13 +20,13 @@
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.2"
+          "netstandard2.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.2": {
+          "netstandard2.0": {
             "projectReferences": {}
           }
         },
@@ -37,21 +37,13 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.2": {
+        "netstandard2.0": {
           "dependencies": {
-            "Microsoft.NETCore.App": {
+            "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.2.0, )",
+              "version": "[2.0.3, )",
               "autoReferenced": true
-            },
-            "PInvoke.Kernel32": {
-              "target": "Package",
-              "version": "[0.5.184, )"
-            },
-            "PInvoke.User32": {
-              "target": "Package",
-              "version": "[0.5.184, )"
             }
           },
           "imports": [
@@ -59,11 +51,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true
-        }
-      },
-      "runtimes": {
-        "win10-x64": {
-          "#import": []
         }
       }
     }
